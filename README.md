@@ -1,1 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=120&animation=fadeIn&section=footer&text=connection&fontAlign=70&fontColor=B2D6FF)
+<div><img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&customColorList=12" width="1000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12" width="1000"/></div>
