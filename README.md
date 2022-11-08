@@ -5,6 +5,6 @@
 ##### 문제 정보
 ㅁㅇㄴㄹ
 ㅁㄴㅇㄹ
-<a href="https://www.acmicpc.net/problem/1238" > <h3>:link: Problem Solving </h3> </a>
+[:link:](https://www.acmicpc.net/problem/1238)
 ㅁㅇㄴㄹ
 <div><img src="https://user-images.githubusercontent.com/116149736/200578139-c971c35c-12fb-4f41-a730-db93e0301797.jpg" width="1000"/>
